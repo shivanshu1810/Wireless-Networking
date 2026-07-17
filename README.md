@@ -1,0 +1,3 @@
+Designed and optimized a wireless network for a building using Ubiquiti UniFi Design Center. Created a scaled floor plan, strategically placed UniFi U7 Lite access points, and used the built-in Wi-Fi Heat Map to ensure reliable wireless coverage throughout the building while minimizing signal leakage outside. Assigned logical hostnames to each access point based on their location and generated a detailed PDF report documenting the network design and coverage analysis.
+
+Skills: Wireless Networking, Wi-Fi Site Planning, RF Coverage Analysis, Access Point Placement, UniFi Design Center, Network Documentation, Infrastructure Planning.
